@@ -1,0 +1,37 @@
+body {
+    background-color: #8EC5FC;
+    background-image: linear-gradient(62deg, #8EC5FC 0%, #E0C3FC 100%);
+}
+
+h1 {
+    text-align: center;
+    font-size: 35px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+
+div {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+}
+#unicorn{
+    width: 500px;
+    height: 500px;
+}
+#dragon{
+    width: 445px;
+    height: 320px;
+}
+#unidrag{
+    width: 300px;
+    height: 250px;
+}
